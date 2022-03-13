@@ -1,0 +1,35 @@
+.top
+{
+    text-align: center;
+    background-image: url(./tomoroland.jpg);
+    background-position: center;
+    background-size: cover;
+}
+h{color: brown text-shadow:20px 20px 10px  red;
+
+}
+button{colour:red;background-color: aquamarine;
+
+}
+.person
+{size: 100px;
+position: absolute; left: 50px;
+color: black;
+}
+.dj
+{size: 100px;
+    position: absolute; left: 50px;
+    colour:red
+}
+
+.place
+{size: 100px;
+    position: absolute; left: 50px;
+    colour:yellow
+}
+.community
+{size: 100px;
+    position: absolute; left: 50px;
+    colour:green
+    
+}
