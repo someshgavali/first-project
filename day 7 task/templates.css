@@ -1,35 +1,89 @@
 .top
 {
+    size: 1000px;
     text-align: center;
-    background-image: url(./tomoroland.jpg);
+    background-image: url(./image\ 1.jpg);
+    background-repeat: no-repeat;
     background-position: center;
+    background-size: cover
+}
+h{color: brown;
+     text-shadow:20px 20px 10px  red;
+
+}
+button{
+    color:red;
+    background-color: aquamarine;
+
+}
+
+.heading{
+    margin-left: 160;
+}
+.navbar{
+text-align: center;
+display: flex;
+flex-direction:row;
+justify-content:space-evenly;
+}
+.middle{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 20px;
     background-size: cover;
 }
-h{color: brown text-shadow:20px 20px 10px  red;
+.icon{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+.description{
+    margin-left: 70px;
+    margin-top: -70px;
+}
+.button2{
+    text-align: center;
+    padding: 20px;
+}
+.sub>button{
+flex-direction: row;
+color: brown;
+text-align: center;
+justify-content: space-evenly;
+}
+
+.history{
+    height: 350px; width: 1280px;
+    color: aliceblue;
+    text-align: center;
+    background-image: url("./images4.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 
 }
-button{colour:red;background-color: aquamarine;
 
-}
-.person
-{size: 100px;
-position: absolute; left: 50px;
-color: black;
-}
-.dj
-{size: 100px;
-    position: absolute; left: 50px;
-    colour:red
-}
 
-.place
-{size: 100px;
-    position: absolute; left: 50px;
-    colour:yellow
-}
-.community
-{size: 100px;
-    position: absolute; left: 50px;
-    colour:green
-    
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
